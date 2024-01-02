@@ -9,10 +9,10 @@ This project aims to create an Electroencephalogram (EEG) system that records an
 
 ## Milestones:
 - [ ] Complete building functional EEG device
-    - [ ] Research on fundamental mechanisms of an EEG headset
-    - [ ] Identify and sketch out primary circuit elements
-    - [ ] Create schematic of EEG device on LTspice
-    - [ ] Source all required circuit components on DigiKey
+    - [x] Research on fundamental mechanisms of an EEG headset
+    - [x] Identify and sketch out primary circuit elements
+    - [x] Create schematic of EEG device on LTspice
+    - [x] Source all required circuit components on DigiKey
     - [ ] Complete project symbol library and overall schematic on KiCad
     - [ ] Complete PCB design on KiCad
     - [ ] Finish assembling all components on custom PCB and test out EEG device
