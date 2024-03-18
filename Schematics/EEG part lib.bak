@@ -663,7 +663,7 @@
     )
   )
   (symbol "OPA172IDR" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
-    (property "Reference" "U?" (at -1.27 -2.54 0)
+    (property "Reference" "U" (at -1.27 -2.54 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "OPA172IDR" (at -1.27 -6.35 0)
