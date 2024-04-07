@@ -1,0 +1,810 @@
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C38:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R16:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C29:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'C23:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C42:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C17:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C34:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R7:'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R8:'.
+Info: Processing symbol 'R14:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C24:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C30:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C18:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R9:'.
+Info: Processing symbol 'CR3:Project_Footprint_Library:CR_0F1U2S9-7_DIO'.
+Info: Processing symbol 'C3:'.
+Info: Processing symbol 'R30:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C4:'.
+Info: Processing symbol 'R29:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C5:'.
+Info: Processing symbol 'R28:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C6:'.
+Info: Processing symbol 'R27:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C7:'.
+Info: Processing symbol 'R26:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C8:'.
+Info: Processing symbol 'R25:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C9:'.
+Info: Processing symbol 'R24:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C10:'.
+Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C39:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C35:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C43:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R13:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C25:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R10:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R11:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C19:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R12:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C12:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C31:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'R20:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C36:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C26:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'C20:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C13:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C40:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C44:'.
+Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C45:'.
+Info: Processing symbol 'C32:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R21:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C27:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C14:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C21:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'CR1:Project_Footprint_Library:CR_0F1U2S9-7_DIO'.
+Info: Processing symbol 'C37:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'CR4:Project_Footprint_Library:CR_0F1U2S9-7_DIO'.
+Info: Processing symbol 'R19:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C41:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R4:'.
+Info: Processing symbol 'C15:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R18:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'C28:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'R5:'.
+Info: Processing symbol 'C22:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C33:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R17:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R6:'.
+Info: Processing symbol 'C16:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'CR2:Project_Footprint_Library:CR_0F1U2S9-7_DIO'.
+Info: Processing symbol 'R31:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R32:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R33:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R34:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R35:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R36:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R37:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R38:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R39:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R40:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'U1:Project_Footprint_Library:INA819ID'.
+Info: Processing symbol 'U2:D0008A_N'.
+Info: Processing symbol 'U3:D0008A_N'.
+Info: Processing symbol 'U4:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U5:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U6:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U7:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U8:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U9:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U10:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U11:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U12:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U13:Project_Footprint_Library:OPA172IDR'.
+Info: Processing symbol 'U14:R_8_ADI'.
+Info: Processing symbol 'V1:'.
+Info: Processing symbol 'V2:'.
+Added C12 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C12.
+Changed C12 value from CP_Radial_D5.0mm_P2.00mm to 5.6n.
+Updated C12 symbol association from  to /0061efdc-2931-44dd-9166-02ac40918e41.
+Updated C12 properties.
+Connected C12 pin 1 to Net-(C11-Pad1).
+Connected C12 pin 2 to Notch_out.
+Added C13 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C13.
+Changed C13 value from CP_Radial_D5.0mm_P2.00mm to 5.6n.
+Updated C13 symbol association from  to /be115492-564c-4b9a-9211-266cfe4c7659.
+Updated C13 properties.
+Connected C13 pin 1 to Notch_out.
+Connected C13 pin 2 to Net-(C11-Pad2).
+Added C14 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C14.
+Changed C14 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C14 symbol association from  to /e907d8ab-2b73-47b9-a900-09731923586d.
+Updated C14 properties.
+Connected C14 pin 1 to Notch_out.
+Connected C14 pin 2 to V++.
+Added C15 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C15.
+Changed C15 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C15 symbol association from  to /81d78ba4-5c91-46b6-92f1-a160c4e97785.
+Updated C15 properties.
+Connected C15 pin 1 to V--.
+Connected C15 pin 2 to Notch_out.
+Added C16 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C16.
+Changed C16 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C16 symbol association from  to /a0f99d38-dbfd-49bd-88c3-8733efa4c04a.
+Updated C16 properties.
+Connected C16 pin 1 to Notch_out.
+Connected C16 pin 2 to V++.
+Added C17 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C17.
+Changed C17 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C17 symbol association from  to /e707d4d8-9b69-4227-804a-717069b9d1b4.
+Updated C17 properties.
+Connected C17 pin 1 to V--.
+Connected C17 pin 2 to Notch_out.
+Added C18 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C18.
+Changed C18 value from CP_Radial_D5.0mm_P2.00mm to 5.6n.
+Updated C18 symbol association from  to /998ff1dd-1e8b-4215-80c9-7cc56fc6e8f5.
+Updated C18 properties.
+Add net Net-(U4A-IN-).
+Connected C18 pin 1 to Net-(U4A-IN-).
+Add net Net-(U4A-OUT).
+Connected C18 pin 2 to Net-(U4A-OUT).
+Added C19 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C19.
+Changed C19 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C19 symbol association from  to /c51565c3-1f82-450d-b795-a60c04d98849.
+Updated C19 properties.
+Connected C19 pin 1 to Notch_out.
+Connected C19 pin 2 to V++.
+Added C20 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C20.
+Changed C20 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C20 symbol association from  to /2f13f4d2-87e3-46f3-a455-b02dc669c9f7.
+Updated C20 properties.
+Connected C20 pin 1 to V--.
+Connected C20 pin 2 to Notch_out.
+Added C21 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C21.
+Changed C21 value from CP_Radial_D5.0mm_P2.00mm to 33n.
+Updated C21 symbol association from  to /8bfad2af-dedf-4c69-9c24-4f047a9613c5.
+Updated C21 properties.
+Add net /Vout1.
+Connected C21 pin 1 to /Vout1.
+Add net Net-(U6A-OUT).
+Connected C21 pin 2 to Net-(U6A-OUT).
+Added C22 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C22.
+Changed C22 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C22 symbol association from  to /5ea7003c-e375-4db9-bbd0-3c64836c3f71.
+Updated C22 properties.
+Connected C22 pin 1 to Notch_out.
+Connected C22 pin 2 to V++.
+Added C23 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C23.
+Changed C23 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C23 symbol association from  to /ea44e261-3b22-4103-8430-497030435048.
+Updated C23 properties.
+Connected C23 pin 1 to V--.
+Connected C23 pin 2 to Notch_out.
+Added C24 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C24.
+Changed C24 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C24 symbol association from  to /79701f75-87ef-4c6a-86df-892bc8a42c94.
+Updated C24 properties.
+Connected C24 pin 1 to Notch_out.
+Connected C24 pin 2 to V++.
+Added C25 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C25.
+Changed C25 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C25 symbol association from  to /a5a10aba-0f2d-4601-b17c-3f9e6390f390.
+Updated C25 properties.
+Connected C25 pin 1 to V--.
+Connected C25 pin 2 to Notch_out.
+Added C26 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C26.
+Changed C26 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C26 symbol association from  to /dd0f3b98-ad0e-4fb2-b4c9-d51f36f22956.
+Updated C26 properties.
+Connected C26 pin 1 to V--.
+Connected C26 pin 2 to Notch_out.
+Added C27 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C27.
+Changed C27 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C27 symbol association from  to /18753d20-7b1c-41b3-9823-67ecc70f1318.
+Updated C27 properties.
+Connected C27 pin 1 to Notch_out.
+Connected C27 pin 2 to V++.
+Added C28 (footprint 'Capacitor_THT:CP_Radial_D6.3mm_P2.50mm').
+Changed REF** reference designator to C28.
+Changed C28 value from CP_Radial_D6.3mm_P2.50mm to 10u.
+Updated C28 symbol association from  to /78fe25e6-2feb-439a-a1d8-7fec125cd857.
+Updated C28 properties.
+Connected C28 pin 1 to V--.
+Connected C28 pin 2 to Notch_out.
+Added C29 (footprint 'Capacitor_THT:CP_Radial_D6.3mm_P2.50mm').
+Changed REF** reference designator to C29.
+Changed C29 value from CP_Radial_D6.3mm_P2.50mm to 10u.
+Updated C29 symbol association from  to /bb32a587-5c8b-4d16-bef5-c37fd546eec0.
+Updated C29 properties.
+Connected C29 pin 1 to Notch_out.
+Connected C29 pin 2 to V++.
+Added C30 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C30.
+Changed C30 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C30 symbol association from  to /91dd5c2c-89eb-4ae2-aae7-a277783dd41a.
+Updated C30 properties.
+Add net Notch_in.
+Connected C30 pin 1 to Notch_in.
+Add net Net-(C30-Pad2).
+Connected C30 pin 2 to Net-(C30-Pad2).
+Added C31 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C31.
+Changed C31 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C31 symbol association from  to /3beb285b-0d54-46d5-8bdf-67d2f6cb882d.
+Updated C31 properties.
+Connected C31 pin 1 to Net-(C30-Pad2).
+Add net Net-(U10A-IN+).
+Connected C31 pin 2 to Net-(U10A-IN+).
+Added C32 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C32.
+Changed C32 value from CP_Radial_D5.0mm_P2.00mm to 0.2u.
+Updated C32 symbol association from  to /e9c48b13-eeaa-4ed3-ac3d-4625b699ebfb.
+Updated C32 properties.
+Add net Net-(U11A-IN-).
+Connected C32 pin 1 to Net-(U11A-IN-).
+Add net Net-(C32-Pad2).
+Connected C32 pin 2 to Net-(C32-Pad2).
+Added C33 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C33.
+Changed C33 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C33 symbol association from  to /ba647c93-bb2e-4258-8ee9-3a9b96fd98ea.
+Updated C33 properties.
+Connected C33 pin 1 to Notch_out.
+Connected C33 pin 2 to V++.
+Added C34 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C34.
+Changed C34 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C34 symbol association from  to /dd77b7cc-bd38-49ee-96cc-c50c4a06d444.
+Updated C34 properties.
+Connected C34 pin 1 to V--.
+Connected C34 pin 2 to Notch_out.
+Added C35 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C35.
+Changed C35 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C35 symbol association from  to /2b67a1a0-0228-4e98-936b-8da68ffd9856.
+Updated C35 properties.
+Connected C35 pin 1 to Notch_out.
+Connected C35 pin 2 to V++.
+Added C36 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C36.
+Changed C36 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C36 symbol association from  to /92e7dcd7-4a7b-4eab-8e16-08a66dd65886.
+Updated C36 properties.
+Connected C36 pin 1 to V--.
+Connected C36 pin 2 to Notch_out.
+Added C37 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C37.
+Changed C37 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C37 symbol association from  to /26255a6f-9c67-46d6-bfce-ed9ef2497d59.
+Updated C37 properties.
+Add net Net-(U10A-IN-).
+Connected C37 pin 1 to Net-(U10A-IN-).
+Add net Net-(C37-Pad2).
+Connected C37 pin 2 to Net-(C37-Pad2).
+Added C38 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C38.
+Changed C38 value from CP_Radial_D5.0mm_P2.00mm to 0.2u.
+Updated C38 symbol association from  to /1e38c3f9-b10c-4885-9000-c54d533b9354.
+Updated C38 properties.
+Add net Net-(U13A-IN-).
+Connected C38 pin 1 to Net-(U13A-IN-).
+Add net Net-(C38-Pad2).
+Connected C38 pin 2 to Net-(C38-Pad2).
+Added C39 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C39.
+Changed C39 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C39 symbol association from  to /0d13f369-d0e7-491d-ae99-01cbdeacbfb5.
+Updated C39 properties.
+Connected C39 pin 1 to Net-(C37-Pad2).
+Add net Net-(U12A-IN+).
+Connected C39 pin 2 to Net-(U12A-IN+).
+Added C40 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C40.
+Changed C40 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C40 symbol association from  to /9a98bafd-b39a-42ec-bec0-ff35084013fb.
+Updated C40 properties.
+Connected C40 pin 1 to V--.
+Connected C40 pin 2 to Notch_out.
+Added C41 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C41.
+Changed C41 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C41 symbol association from  to /142a6528-7257-464d-9997-fb6803053020.
+Updated C41 properties.
+Connected C41 pin 1 to Notch_out.
+Connected C41 pin 2 to V++.
+Added C42 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C42.
+Changed C42 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C42 symbol association from  to /48cc9581-b559-4f71-875b-417a33441a83.
+Updated C42 properties.
+Connected C42 pin 1 to Notch_out.
+Connected C42 pin 2 to V++.
+Added C43 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C43.
+Changed C43 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C43 symbol association from  to /3346b60c-1de8-489b-9533-42e59900adbf.
+Updated C43 properties.
+Connected C43 pin 1 to V--.
+Connected C43 pin 2 to Notch_out.
+Added CR1 (footprint 'Project_Footprint_Library:CR_0F1U2S9-7_DIO').
+Changed REF** reference designator to CR1.
+Changed CR1 value from CR_0F1U2S9-7_DIO to D5V0F1U2S9-7.
+Updated CR1 symbol association from  to /d51dc131-ad01-431f-bbb5-633830c160f1.
+Updated CR1 properties.
+Connected CR1 pin 1 to V++.
+Connected CR1 pin 2 to Net-(C11-Pad2).
+Added CR2 (footprint 'Project_Footprint_Library:CR_0F1U2S9-7_DIO').
+Changed REF** reference designator to CR2.
+Changed CR2 value from CR_0F1U2S9-7_DIO to D5V0F1U2S9-7.
+Updated CR2 symbol association from  to /0f5fafae-0e7c-4d23-90aa-b0bd77c42768.
+Updated CR2 properties.
+Connected CR2 pin 1 to V++.
+Connected CR2 pin 2 to Net-(C11-Pad1).
+Added CR3 (footprint 'Project_Footprint_Library:CR_0F1U2S9-7_DIO').
+Changed REF** reference designator to CR3.
+Changed CR3 value from CR_0F1U2S9-7_DIO to D5V0F1U2S9-7.
+Updated CR3 symbol association from  to /ede4436e-61c9-42ec-8201-d33a1bde19e1.
+Updated CR3 properties.
+Connected CR3 pin 1 to Net-(C11-Pad2).
+Connected CR3 pin 2 to V--.
+Added CR4 (footprint 'Project_Footprint_Library:CR_0F1U2S9-7_DIO').
+Changed REF** reference designator to CR4.
+Changed CR4 value from CR_0F1U2S9-7_DIO to D5V0F1U2S9-7.
+Updated CR4 symbol association from  to /bb1107f9-92a7-4dc2-8808-e25f21bfec3f.
+Updated CR4 properties.
+Connected CR4 pin 1 to Net-(C11-Pad1).
+Connected CR4 pin 2 to V--.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 2k.
+Updated R1 symbol association from  to /057f190a-84b5-4a34-a1a5-2d19ccb87ae9.
+Updated R1 properties.
+Add net Net-(R1-Pad1).
+Connected R1 pin 1 to Net-(R1-Pad1).
+Add net Net-(R1-Pad2).
+Connected R1 pin 2 to Net-(R1-Pad2).
+Added R10 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R10.
+Changed R10 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 4.99k.
+Updated R10 symbol association from  to /3df2aef4-1c7e-43ef-9ce1-8b379f595e68.
+Updated R10 properties.
+Add net Electrode+.
+Connected R10 pin 1 to Electrode+.
+Connected R10 pin 2 to Net-(C11-Pad1).
+Added R11 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R11.
+Changed R11 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 4.99k.
+Updated R11 symbol association from  to /31976fed-4a85-4506-a2cc-ab178ed63529.
+Updated R11 properties.
+Add net Electrode-.
+Connected R11 pin 1 to Electrode-.
+Connected R11 pin 2 to Net-(C11-Pad2).
+Added R12 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R12.
+Changed R12 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 22k.
+Updated R12 symbol association from  to /bcf47927-e297-4d8f-9500-11ef5b8db118.
+Updated R12 properties.
+Add net DRL_in.
+Connected R12 pin 1 to DRL_in.
+Connected R12 pin 2 to Net-(R1-Pad1).
+Added R13 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R13.
+Changed R13 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 22k.
+Updated R13 symbol association from  to /617fd1c5-0309-4dad-aba4-98c82abc64b8.
+Updated R13 properties.
+Connected R13 pin 1 to DRL_in.
+Connected R13 pin 2 to Net-(R1-Pad2).
+Added R14 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R14.
+Changed R14 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R14 symbol association from  to /121669f0-07be-42dc-9fad-416eafb71481.
+Updated R14 properties.
+Add net Net-(U5A-IN-).
+Connected R14 pin 1 to Net-(U5A-IN-).
+Connected R14 pin 2 to Net-(U4A-IN-).
+Added R15 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R15.
+Changed R15 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R15 symbol association from  to /25b9ee64-53d1-4469-af40-4c6e79ea4a27.
+Updated R15 properties.
+Connected R15 pin 1 to Net-(C11-Pad1).
+Add net Net-(U1-+).
+Connected R15 pin 2 to Net-(U1-+).
+Added R16 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R16.
+Changed R16 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R16 symbol association from  to /e66ff4ec-3405-421c-a185-dade5eba350d.
+Updated R16 properties.
+Connected R16 pin 1 to Net-(C11-Pad2).
+Add net Net-(U1--).
+Connected R16 pin 2 to Net-(U1--).
+Added R17 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R17.
+Changed R17 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 499k.
+Updated R17 symbol association from  to /d6a0351c-a561-43e0-8157-a92f49557f16.
+Updated R17 properties.
+Connected R17 pin 1 to Net-(U4A-IN-).
+Connected R17 pin 2 to Net-(U4A-OUT).
+Added R18 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R18.
+Changed R18 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R18 symbol association from  to /64b1a727-a711-4a71-9d2a-33ac3071340e.
+Updated R18 properties.
+Connected R18 pin 1 to Net-(U4A-OUT).
+Add net Electrode_DRL.
+Connected R18 pin 2 to Electrode_DRL.
+Added R19 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R19.
+Changed R19 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 100k.
+Updated R19 symbol association from  to /5c161a4a-91a9-43b4-aeeb-59516f0fd240.
+Updated R19 properties.
+Connected R19 pin 1 to /Vout1.
+Connected R19 pin 2 to Net-(U6A-OUT).
+Added R20 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R20.
+Changed R20 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 1.8k.
+Updated R20 symbol association from  to /893dce21-dca0-4206-b305-fccf2b016bfa.
+Updated R20 properties.
+Connected R20 pin 1 to Notch_out.
+Connected R20 pin 2 to /Vout1.
+Added R21 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R21.
+Changed R21 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 5.6k.
+Updated R21 symbol association from  to /725a8592-7036-4cc2-af44-c55705c2c9eb.
+Updated R21 properties.
+Connected R21 pin 1 to Net-(U6A-OUT).
+Add net Net-(U7A-IN-).
+Connected R21 pin 2 to Net-(U7A-IN-).
+Added R22 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R22.
+Changed R22 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 100k.
+Updated R22 symbol association from  to /5688663b-c24a-4ea7-8c32-e0164160b2ef.
+Updated R22 properties.
+Connected R22 pin 1 to Net-(U7A-IN-).
+Add net Net-(U7A-OUT).
+Connected R22 pin 2 to Net-(U7A-OUT).
+Added R23 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R23.
+Changed R23 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 2.37k.
+Updated R23 symbol association from  to /16b98045-05cb-4be5-8694-5ccc37783161.
+Updated R23 properties.
+Connected R23 pin 1 to Net-(U7A-OUT).
+Add net Inv_Summing_Amp_in.
+Connected R23 pin 2 to Inv_Summing_Amp_in.
+Added R24 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R24.
+Changed R24 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 2.37k.
+Updated R24 symbol association from  to /7cef3bba-29ca-44e1-a87c-3a5b846ab259.
+Updated R24 properties.
+Connected R24 pin 1 to Inv_Summing_Amp_in.
+Add net Net-(R24-Pad2).
+Connected R24 pin 2 to Net-(R24-Pad2).
+Added R25 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R25.
+Changed R25 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R25 symbol association from  to /dd384b68-7ee7-4a7a-aa0e-905384957701.
+Updated R25 properties.
+Connected R25 pin 1 to Notch_out.
+Connected R25 pin 2 to Net-(R24-Pad2).
+Added R26 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R26.
+Changed R26 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 4.99k.
+Updated R26 symbol association from  to /d8dd2248-c3f3-4007-a75a-4738e3167360.
+Updated R26 properties.
+Connected R26 pin 1 to V++.
+Connected R26 pin 2 to Net-(R24-Pad2).
+Added R27 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R27.
+Changed R27 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 2.37k.
+Updated R27 symbol association from  to /17cbafec-b59b-4990-b36d-ba96291a9501.
+Updated R27 properties.
+Connected R27 pin 1 to Inv_Summing_Amp_in.
+Add net Net-(U8A-OUT).
+Connected R27 pin 2 to Net-(U8A-OUT).
+Added R28 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R28.
+Changed R28 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R28 symbol association from  to /47af9ab3-b783-4c9d-982e-4c0e6631793b.
+Updated R28 properties.
+Add net Net-(U9A-IN-).
+Connected R28 pin 1 to Net-(U9A-IN-).
+Add net EEG_out.
+Connected R28 pin 2 to EEG_out.
+Added R29 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R29.
+Changed R29 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to R.
+Updated R29 symbol association from  to /3fdc3d74-b539-4ac0-a4fd-19000958a3db.
+Updated R29 properties.
+Connected R29 pin 1 to Net-(U8A-OUT).
+Connected R29 pin 2 to Net-(U9A-IN-).
+Added R30 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R30.
+Changed R30 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 32k.
+Updated R30 symbol association from  to /bdfe5d79-462c-4a73-b4c7-728db685b7d0.
+Updated R30 properties.
+Connected R30 pin 1 to Notch_in.
+Connected R30 pin 2 to Net-(C32-Pad2).
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Added R31 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R31.
+Changed R31 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 32k.
+Updated R31 symbol association from  to /69cc34af-3b82-46ff-95d4-60e6e6abab10.
+Updated R31 properties.
+Connected R31 pin 1 to Net-(C32-Pad2).
+Connected R31 pin 2 to Net-(U10A-IN+).
+Changed REF** reference designator to C1.
+Added R32 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R32.
+Changed R32 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 16k.
+Updated R32 symbol association from  to /a42d7059-eca2-4aed-8d73-b59186f91a7c.
+Updated R32 properties.
+Connected R32 pin 1 to Net-(U11A-IN-).
+Connected R32 pin 2 to Net-(C30-Pad2).
+Changed C1 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Added R33 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R33.
+Changed R33 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R33 symbol association from  to /802f543a-829c-48d4-9a50-8b6b8dda5579.
+Updated R33 properties.
+Add net Net-(U11A-IN+).
+Connected R33 pin 1 to Net-(U11A-IN+).
+Connected R33 pin 2 to Notch_out.
+Updated C1 symbol association from  to /6b83b3f6-533e-4df7-b2d9-b1aa079fc1cb.
+Added R34 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R34.
+Changed R34 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 250.
+Updated R34 symbol association from  to /7b2d55f8-7149-4771-a032-db07cbafbc91.
+Updated R34 properties.
+Connected R34 pin 1 to Net-(U10A-IN-).
+Connected R34 pin 2 to Net-(U11A-IN+).
+Updated C1 properties.
+Added R35 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R35.
+Changed R35 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 32k.
+Updated R35 symbol association from  to /7b8812b7-bfef-4a04-820d-34b01b41358d.
+Updated R35 properties.
+Connected R35 pin 1 to Net-(U10A-IN-).
+Connected R35 pin 2 to Net-(C38-Pad2).
+Add net Notch_out.
+Added R36 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R36.
+Changed R36 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 16k.
+Updated R36 symbol association from  to /05320787-ad65-4e5a-ac20-29983273a69f.
+Updated R36 properties.
+Connected R36 pin 1 to Net-(U13A-IN-).
+Connected R36 pin 2 to Net-(C37-Pad2).
+Connected C1 pin 1 to Notch_out.
+Added R37 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R37.
+Changed R37 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 32k.
+Updated R37 symbol association from  to /6b3bb9fe-0d98-4b85-bfdf-78e886f37bb5.
+Updated R37 properties.
+Connected R37 pin 1 to Net-(C38-Pad2).
+Connected R37 pin 2 to Net-(U12A-IN+).
+Add net V++.
+Added R38 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R38.
+Changed R38 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 250.
+Updated R38 symbol association from  to /5bcee5b6-cb33-4922-8de0-6036cda5d0a9.
+Updated R38 properties.
+Add net Net-(U12A-IN-).
+Connected R38 pin 1 to Net-(U12A-IN-).
+Add net Net-(U13A-IN+).
+Connected R38 pin 2 to Net-(U13A-IN+).
+Connected C1 pin 2 to V++.
+Added R39 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R39.
+Changed R39 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R39 symbol association from  to /45406bba-12aa-4a64-a7e9-de1d02ca4e1f.
+Updated R39 properties.
+Connected R39 pin 1 to Net-(U13A-IN+).
+Connected R39 pin 2 to Notch_out.
+Added C2 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Added R40 (footprint 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Changed REF** reference designator to R40.
+Changed R40 value from R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal to 10k.
+Updated R40 symbol association from  to /643d396d-39f0-433a-b69f-18489d904592.
+Updated R40 properties.
+Connected R40 pin 1 to Net-(U12A-IN-).
+Connected R40 pin 2 to Notch_out.
+Changed REF** reference designator to C2.
+Added U1 (footprint 'Project_Footprint_Library:INA819ID').
+Changed REF** reference designator to U1.
+Changed U1 value from INA819ID to INA819IDGK.
+Updated U1 symbol association from  to /0bfab6c7-ee83-4285-95c3-660b0af8041d.
+Updated U1 properties.
+Connected U1 pin 1 to Net-(U1--).
+Connected U1 pin 2 to Net-(R1-Pad1).
+Connected U1 pin 3 to Net-(R1-Pad2).
+Connected U1 pin 4 to Net-(U1-+).
+Connected U1 pin 5 to V--.
+Connected U1 pin 6 to Notch_out.
+Connected U1 pin 7 to /Vout1.
+Connected U1 pin 8 to V++.
+Changed C2 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C2 symbol association from  to /9559b42f-5079-412a-97b8-2cc34507618f.
+Updated C2 properties.
+Added U4 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U4.
+Changed U4 value from D0008A_N to OPA172IDR.
+Updated U4 symbol association from  to /2398427d-d209-410f-bed3-23dfa79dff1e.
+Updated U4 properties.
+Connected U4 pin 2 to Net-(U4A-IN-).
+Connected U4 pin 3 to Notch_out.
+Connected U4 pin 4 to V--.
+Connected U4 pin 6 to Net-(U4A-OUT).
+Connected U4 pin 7 to V++.
+Add net V--.
+Added U5 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U5.
+Changed U5 value from D0008A_N to OPA172IDR.
+Updated U5 symbol association from  to /bd83b84d-7e62-4314-8e33-1d3d6954bf92.
+Updated U5 properties.
+Connected U5 pin 2 to Net-(U5A-IN-).
+Connected U5 pin 3 to DRL_in.
+Connected U5 pin 4 to V--.
+Connected U5 pin 6 to Net-(U5A-IN-).
+Connected U5 pin 7 to V++.
+Connected C2 pin 1 to V--.
+Added U6 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U6.
+Changed U6 value from D0008A_N to OPA172IDR.
+Updated U6 symbol association from  to /68b0a586-dc84-4385-9ec9-a355986b59f5.
+Updated U6 properties.
+Add net unconnected-(U6A-IN--Pad2).
+Connected U6 pin 2 to unconnected-(U6A-IN--Pad2).
+Connected U6 pin 3 to /Vout1.
+Connected U6 pin 4 to V--.
+Connected U6 pin 6 to Net-(U6A-OUT).
+Connected U6 pin 7 to V++.
+Connected C2 pin 2 to Notch_out.
+Added U7 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U7.
+Changed U7 value from D0008A_N to OPA172IDR.
+Updated U7 symbol association from  to /3de17094-70e3-48db-a44b-3c75eb18f45b.
+Updated U7 properties.
+Connected U7 pin 2 to Net-(U7A-IN-).
+Connected U7 pin 3 to Notch_out.
+Connected U7 pin 4 to V--.
+Connected U7 pin 6 to Net-(U7A-OUT).
+Connected U7 pin 7 to V++.
+Added C11 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Added U8 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U8.
+Changed U8 value from D0008A_N to OPA172IDR.
+Updated U8 symbol association from  to /1337f126-3db9-4fda-907f-b1adf53bc506.
+Updated U8 properties.
+Connected U8 pin 2 to Inv_Summing_Amp_in.
+Connected U8 pin 3 to Notch_out.
+Connected U8 pin 4 to V--.
+Connected U8 pin 6 to Net-(U8A-OUT).
+Connected U8 pin 7 to V++.
+Changed REF** reference designator to C11.
+Added U9 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U9.
+Changed U9 value from D0008A_N to OPA172IDR.
+Updated U9 symbol association from  to /5d7d0eb8-7768-4179-8de2-ad4287433f59.
+Updated U9 properties.
+Connected U9 pin 2 to Net-(U9A-IN-).
+Connected U9 pin 3 to Notch_out.
+Connected U9 pin 4 to V--.
+Connected U9 pin 6 to EEG_out.
+Connected U9 pin 7 to V++.
+Changed C11 value from CP_Radial_D5.0mm_P2.00mm to 33n.
+Added U10 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U10.
+Changed U10 value from D0008A_N to OPA172IDR.
+Updated U10 symbol association from  to /b174f916-fcae-46bb-9cc7-b0ea7478dd1c.
+Updated U10 properties.
+Connected U10 pin 2 to Net-(U10A-IN-).
+Connected U10 pin 3 to Net-(U10A-IN+).
+Connected U10 pin 4 to V--.
+Connected U10 pin 6 to Net-(U10A-IN-).
+Connected U10 pin 7 to V++.
+Updated C11 symbol association from  to /9d838481-21c8-4a3d-991f-64fd7ccd793f.
+Added U11 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U11.
+Changed U11 value from D0008A_N to OPA172IDR.
+Updated U11 symbol association from  to /35555987-bfbe-4aba-b78d-470c33f70aa8.
+Updated U11 properties.
+Connected U11 pin 2 to Net-(U11A-IN-).
+Connected U11 pin 3 to Net-(U11A-IN+).
+Connected U11 pin 4 to V--.
+Connected U11 pin 6 to Net-(U11A-IN-).
+Connected U11 pin 7 to V++.
+Updated C11 properties.
+Added U12 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U12.
+Changed U12 value from D0008A_N to OPA172IDR.
+Updated U12 symbol association from  to /c052d4a8-5e06-4ef2-8bd1-f6a907dceb1e.
+Updated U12 properties.
+Connected U12 pin 2 to Net-(U12A-IN-).
+Connected U12 pin 3 to Net-(U12A-IN+).
+Connected U12 pin 4 to V--.
+Connected U12 pin 6 to Net-(U12A-IN-).
+Connected U12 pin 7 to V++.
+Add net Net-(C11-Pad1).
+Added U13 (footprint 'Project_Footprint_Library:OPA172IDR').
+Changed REF** reference designator to U13.
+Changed U13 value from D0008A_N to OPA172IDR.
+Updated U13 symbol association from  to /0b305986-afc9-42c6-b954-0c759d320af9.
+Updated U13 properties.
+Connected U13 pin 2 to Net-(U13A-IN-).
+Connected U13 pin 3 to Net-(U13A-IN+).
+Connected U13 pin 4 to V--.
+Connected U13 pin 6 to Net-(U13A-IN-).
+Connected U13 pin 7 to V++.
+Connected C11 pin 1 to Net-(C11-Pad1).
+Add net Net-(C11-Pad2).
+Connected C11 pin 2 to Net-(C11-Pad2).
+Warning: No net found for symbol U5 pin 5.
+Warning: No net found for symbol U10 pin 5.
+Warning: No net found for symbol U7 pin 8.
+Warning: No net found for symbol U6 pin 8.
+Warning: No net found for symbol U10 pin 8.
+Warning: No net found for symbol U9 pin 5.
+Warning: No net found for symbol U5 pin 8.
+Warning: No net found for symbol U9 pin 8.
+Warning: No net found for symbol U13 pin 1.
+Warning: No net found for symbol U13 pin 8.
+Warning: No net found for symbol U8 pin 1.
+Warning: No net found for symbol U11 pin 1.
+Warning: No net found for symbol U7 pin 1.
+Warning: No net found for symbol U4 pin 1.
+Warning: No net found for symbol U5 pin 1.
+Warning: No net found for symbol U11 pin 5.
+Warning: No net found for symbol U8 pin 5.
+Warning: No net found for symbol U6 pin 1.
+Warning: No net found for symbol U11 pin 8.
+Warning: No net found for symbol U13 pin 5.
+Warning: No net found for symbol U8 pin 8.
+Warning: No net found for symbol U10 pin 1.
+Warning: No net found for symbol U4 pin 5.
+Warning: No net found for symbol U7 pin 5.
+Warning: No net found for symbol U6 pin 5.
+Warning: No net found for symbol U12 pin 1.
+Warning: No net found for symbol U12 pin 8.
+Warning: No net found for symbol U4 pin 8.
+Warning: No net found for symbol U9 pin 1.
+Warning: No net found for symbol U12 pin 5.
+Error: Cannot add C5 (no footprint assigned).
+Error: Cannot add C3 (no footprint assigned).
+Error: Cannot add C44 (no footprint assigned).
+Error: Cannot add C45 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add R5 (no footprint assigned).
+Error: Cannot add C8 (no footprint assigned).
+Error: Cannot add R7 (no footprint assigned).
+Error: Cannot add C6 (no footprint assigned).
+Error: Cannot add R9 (no footprint assigned).
+Error: Cannot add C4 (no footprint assigned).
+Error: Cannot add R8 (no footprint assigned).
+Error: Cannot add R6 (no footprint assigned).
+Error: Cannot add R4 (no footprint assigned).
+Error: Cannot add U2 (footprint 'D0008A_N' not found).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add C7 (no footprint assigned).
+Error: Cannot add C10 (no footprint assigned).
+Error: Cannot add U14 (footprint 'R_8_ADI' not found).
+Error: Cannot add C9 (no footprint assigned).
+Error: Cannot add V1 (no footprint assigned).
+Error: Cannot add U3 (footprint 'D0008A_N' not found).
+Error: Cannot add V2 (no footprint assigned).
+
+
+Info: Total warnings: 30, errors: 23.
