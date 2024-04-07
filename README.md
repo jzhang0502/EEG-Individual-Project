@@ -13,7 +13,7 @@ This project aims to create an Electroencephalogram (EEG) system that records an
     - [x] Identify and sketch out primary circuit elements
     - [x] Create schematic of EEG device on LTspice
     - [x] Source all required circuit components on DigiKey
-    - [ ] Complete project symbol library and overall schematic on KiCad
+    - [x] Complete project symbol library and overall schematic on KiCad
     - [ ] Complete PCB design on KiCad
     - [ ] Finish assembling all components on custom PCB and test out EEG device
 - [ ] Perform signal processing and analysis on EEG data
